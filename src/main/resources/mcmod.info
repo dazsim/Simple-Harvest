@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simpleharvest",
+  "name": "Simple Harvest",
+  "description": "Adds right click to harvest and replant automagically.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["workshopcraft"],
+  "credits": "#BlameTage",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
