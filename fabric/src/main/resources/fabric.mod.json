@@ -8,6 +8,7 @@
         "${mod_author}"
     ],
     "license": "${license}",
+    "icon": "simpleharvest_logo.png",
     "environment": "*",
     "entrypoints": {
         "main": [
